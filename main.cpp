@@ -10,11 +10,7 @@ int main() {
     cout << "Enter two numbers: ";
     cin >> a >> b;
 
-<<<<<<< HEAD
-   cout << "Result = " << a + b << endl;
-=======
-   cout << "Total = " << a + b << endl;
->>>>>>> practice-branch
+   cout << "The final sum is: " << a + b << endl;
 
     return 0;
 }
